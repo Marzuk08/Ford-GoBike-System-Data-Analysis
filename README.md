@@ -31,6 +31,8 @@ features of the data. The number of male users was higher than female users in b
 customers. There were more males in both subscribers and customers. Also, the top two start
 stations were also the top two end stations.
 
+### See Part_I_exploration.ipynb
+
 ## Key Insights for Presentation
 
 In the presentation, I will focus on the dependency of duration on the age of the users, the user types (subscribers or customers) and member gender (male, female, other).
@@ -38,3 +40,5 @@ In the presentation, I will focus on the dependency of duration on the age of th
 I will start by introducing the distribution of the duration and show where most of the duration lies using histogram. I will then point out the relationship between duration and user age using a scatter plot. I will
 also show the relationship between duration and gender in a bar plot and then duration and user type. The relationship between duration, age and gender will also be discussed using scatter plot. Finally, I will
 touch on the relationship between member age and gender.
+
+### See Part_II_slide_deck.ipynb
